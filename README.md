@@ -1,4 +1,4 @@
-# Quadrattic Equation for the TI-Nspire calculator (ARCHIVED)
+# Quadratic Equation for the TI-Nspire calculator (ARCHIVED)
 
 
 ### History
